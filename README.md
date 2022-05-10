@@ -4,10 +4,10 @@
  
  
  ## RENTAL ANALYSIS
- This Section will compares Average Rent Amount over a period of Time. To show the Increases over time compared to Increases of the Square Footage over the same period of time also. 
+ __________________
  
-Broken up By Neighborhoods of San Francsico.
-
+ Compares the different neighborhoods around the _San Fransisco_ bay area. Here you will find The rent trends, Sale price, and The Square footage of houses to compare the prices using public APIs to gather the data, filter the data, and present the data in a form of a webapp.
 ## Dashboard
-This section allows for Interaction of all data
+
+This section allows for Interaction of all data to have the user be able to not only interact but to understand the data. In a easy, robust dashboard to parse through the visuals. 
 
